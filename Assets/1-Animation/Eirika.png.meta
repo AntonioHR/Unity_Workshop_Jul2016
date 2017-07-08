@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 53a5dddfdf5188c478c829f98179566b
+timeCreated: 1499436312
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Eirika_0
+    21300002: Eirika_1
+    21300004: Eirika_2
+    21300006: Eirika_3
+    21300008: Eirika_4
+    21300010: Eirika_5
+    21300012: Eirika_6
+    21300014: Eirika_7
+    21300016: Eirika_8
+    21300018: Eirika_9
+    21300020: Eirika_10
+    21300022: Eirika_11
+    21300024: Eirika_12
+    21300026: Eirika_13
+    21300028: Eirika_14
+    21300030: Eirika_15
+    21300032: Eirika_16
+    21300034: Eirika_17
+    21300036: Eirika_18
+    21300038: Eirika_19
+    21300040: Eirika_20
+    21300042: Eirika_21
+    21300044: Eirika_22
+    21300046: Eirika_23
+    21300048: Eirika_24
+    21300050: Eirika_25
+    21300052: Eirika_26
+    21300054: Eirika_27
+    21300056: Eirika_28
+    21300058: Eirika_29
+    21300060: Eirika_30
+    21300062: Eirika_31
+    21300064: Eirika_32
+    21300066: Eirika_33
+    21300068: Eirika_34
+    21300070: Eirika_35
+    21300072: Eirika_36
+    21300074: Eirika_37
+    21300076: Eirika_38
+    21300078: Eirika_39
+    21300080: Eirika_40
+    21300082: Eirika_41
+    21300084: Eirika_42
+    21300086: Eirika_43
+    21300088: Eirika_44
+    21300090: Eirika_47
+    21300092: Eirika_48
+    21300094: Eirika_49
+    21300096: Eirika_50
+    21300098: Eirika_51
+    21300100: Eirika_52
+    21300102: Eirika_53
+    21300104: Eirika_54
+    21300106: Eirika_55
+    21300108: Eirika_56
+    21300110: Eirika_57
+    21300112: Eirika_58
+    21300114: Eirika_59
+    21300116: Eirika_60
+    21300118: Eirika_61
+    21300120: Eirika_62
+    21300122: Eirika_63
+    21300124: Eirika_64
+    21300126: Eirika_65
+    21300128: Eirika_66
+    21300130: Eirika_67
+    21300132: Critical
+    21300134: Eirika_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eirika_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 431
+        width: 29
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 431
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 431
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 431
+        width: 22
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 366
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 366
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 366
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 366
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 366
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 366
+        width: 52
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 366
+        width: 61
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 366
+        width: 78
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 368
+        width: 60
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 295
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 304
+        width: 27
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 295
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 295
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 295
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 295
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 295
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 295
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 295
+        width: 26
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 31
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 260
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 260
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 260
+        width: 22
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 207
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 207
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 207
+        width: 28
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 207
+        width: 51
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 207
+        width: 57
+        height: 34
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 207
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 207
+        width: 54
+        height: 33
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_35
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 207
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_36
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 207
+        width: 45
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 145
+        width: 57
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 145
+        width: 95
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 145
+        width: 79
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6034208, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 145
+        width: 67
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 147
+        width: 59
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 147
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 147
+        width: 41
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 147
+        width: 32
+        height: 57
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 74
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 111
+        width: 28
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_50
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 78
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 74
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 74
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 77
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 77
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 77
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 77
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_58
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 77
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 53
+        width: 37
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_60
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 60
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_65
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_66
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eirika_67
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
