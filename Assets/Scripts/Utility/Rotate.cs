@@ -20,6 +20,6 @@ public class Rotate : MonoBehaviour {
 	}
 	
 	void Update () {
-        transform.Rotate(axis, baseSpeed * Time.deltaTime);
+        transform.Rotate(axis, baseSpeed * Time.deltaTime, Space.World);
 	}
 }

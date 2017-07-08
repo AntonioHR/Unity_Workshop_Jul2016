@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class OnTouchTrigger : MonoBehaviour {
+
+    public bool triggersOnAnytTag = false;
     public string TagToCheck;
 
     public UnityEngine.Events.UnityEvent OnTouch;
 
     private void OnCollisionEnter(Collision collision)
     {
-        if(collision.collider.CompareTag(TagToCheck))
+        if(triggersOnAnytTag || collision.collider.CompareTag(TagToCheck))
         {
             OnTouch.Invoke();
         }
